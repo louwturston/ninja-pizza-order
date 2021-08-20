@@ -35,7 +35,7 @@
 			}
 		}
 		
-		if(array_filkter($errors)){
+		if(array_filter($errors)){
 			//echo 'errors in form';
 		}else{
 			//echo 'form is valid';
